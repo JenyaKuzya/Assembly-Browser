@@ -1,0 +1,3 @@
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserApp.exe.config
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly Browser\Assembly-Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserApp.exe.config
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserApp.exe.config
