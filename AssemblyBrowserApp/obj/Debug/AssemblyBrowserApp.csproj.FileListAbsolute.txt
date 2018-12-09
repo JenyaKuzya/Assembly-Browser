@@ -1,3 +1,18 @@
 C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserApp.exe.config
 C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly Browser\Assembly-Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserApp.exe.config
 C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserApp.exe.config
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserApp.exe
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserApp.pdb
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\AssemblyBrowserApp.csprojResolveAssemblyReference.cache
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\MainWindow.g.cs
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\App.g.cs
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\AssemblyBrowserApp_MarkupCompile.cache
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\AssemblyBrowserApp_MarkupCompile.lref
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\MainWindow.baml
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\AssemblyBrowserApp.g.resources
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\AssemblyBrowserApp.Properties.Resources.resources
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\AssemblyBrowserApp.csproj.GenerateResource.Cache
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\AssemblyBrowserApp.exe
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\obj\Debug\AssemblyBrowserApp.pdb

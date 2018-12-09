@@ -1,0 +1,5 @@
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.csprojResolveAssemblyReference.cache
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.pdb
