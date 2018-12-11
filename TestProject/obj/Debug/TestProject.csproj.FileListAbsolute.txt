@@ -1,0 +1,5 @@
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\TestProject\bin\Debug\TestProject.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\TestProject\bin\Debug\TestProject.pdb
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\TestProject\obj\Debug\TestProject.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\TestProject\obj\Debug\TestProject.pdb

@@ -53,6 +53,16 @@
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\AssemblyBrowserLib\AssemblyBrowserLib.csproj">
+      <Project>{eb1a6d49-3fb2-4c69-94e6-70f07742f784}</Project>
+      <Name>AssemblyBrowserLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TestProject\TestProject.csproj">
+      <Project>{407b095b-5ea6-419a-ae9e-6d13bd02eb19}</Project>
+      <Name>TestProject</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

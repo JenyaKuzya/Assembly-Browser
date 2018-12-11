@@ -1,0 +1,10 @@
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\bin\Debug\TestProject.dll
+C:\Users\XTreme.ws\Documents\Учёба\СПП\Assembly-Browser\AssemblyBrowserApp\UnitTests\bin\Debug\TestProject.pdb
